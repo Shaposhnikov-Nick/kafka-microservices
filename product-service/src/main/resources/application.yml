@@ -16,4 +16,5 @@ spring:
         delivery.timout.ms: 20000
         linger.ms: 0
         request.timeout: 10000
+        enable.idempotence: true
 
